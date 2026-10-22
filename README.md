@@ -1,4 +1,8 @@
-<img alt="Fue Tsui — Stay curious. Make something. 白底彩铅手绘：圆框眼镜的开发者在桌前制作工具，身旁有猫咪与盆栽。" src="assets/header-handdrawn.png" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-handdrawn-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-handdrawn.png">
+  <img alt="Fue Tsui — Stay curious. Make something. 彩铅手绘：圆框眼镜的开发者在桌前制作工具，身旁有猫咪与盆栽。" src="assets/header-handdrawn.png" width="100%">
+</picture>
 
 ## 从日常问题出发，做顺手的工具。
 
